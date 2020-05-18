@@ -543,8 +543,8 @@ function library:CreateWindow(WName)
 	end
 	pcall(function()
 		game:GetService("StarterGui"):SetCore("SendNotification", {
-        	Title = "YoungStars Lib V1",
-        	Text = "Made by YoungStar#0001",
+        	Title = "Synta Lib V1",
+        	Text = "Made by Synta#0929",
         	Duration = 5
    	 	})
 	end)
